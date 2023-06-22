@@ -1,4 +1,4 @@
-#This Program will create a ring topology using less number of statements in TCL Language
+//ring
 set ns [new Simulator]
 
 set tracefile [open ring1.tr w]
